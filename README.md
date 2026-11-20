@@ -93,6 +93,6 @@ EmployeeManagementSystem/
 ---
 
 ## Author
-**Rahul H R**  
+**Thejaswini S** 
 Java Full Stack Developer | B.E. CSE 2026  
 K R Pet Krishna Government Engineering College, Bangalore
